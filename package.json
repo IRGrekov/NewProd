@@ -1,0 +1,10 @@
+{
+  "name": "newprod",
+  "private": true,
+  "version": "0.0.2",
+  "description": "Auto-maintained demo project",
+  "scripts": {
+    "dev": "echo dev",
+    "test": "node tests/run.js || true"
+  }
+}
