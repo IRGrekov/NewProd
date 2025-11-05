@@ -5,3 +5,4 @@
 - 2025-11-02: Improve docs and developer notes
 - 2025-11-03: Improve docs and developer notes
 - 2025-11-04: Minor styling adjustments and housekeeping
+- 2025-11-05: Refactor utility helpers (non-breaking)
