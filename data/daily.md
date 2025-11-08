@@ -8,3 +8,4 @@
 - 2025-11-05: Refactor utility helpers (non-breaking)
 - 2025-11-06: Improve docs and developer notes
 - 2025-11-07: Minor styling adjustments and housekeeping
+- 2025-11-08: Refactor utility helpers (non-breaking)
