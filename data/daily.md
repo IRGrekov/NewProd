@@ -11,3 +11,4 @@
 - 2025-11-08: Refactor utility helpers (non-breaking)
 - 2025-11-09: Improve docs and developer notes
 - 2025-11-11: Refactor utility helpers (non-breaking)
+- 2025-11-12: Add test placeholder and update metadata
