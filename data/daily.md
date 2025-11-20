@@ -19,3 +19,4 @@
 - 2025-11-17: Improve docs and developer notes
 - 2025-11-18: Minor styling adjustments and housekeeping
 - 2025-11-19: Improve docs and developer notes
+- 2025-11-20: Tweak UI spacing and layout notes
