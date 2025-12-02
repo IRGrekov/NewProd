@@ -31,3 +31,4 @@
 - 2025-11-29: Tweak UI spacing and layout notes
 - 2025-11-30: Improve docs and developer notes
 - 2025-12-01: Refactor utility helpers (non-breaking)
+- 2025-12-02: Add test placeholder and update metadata
