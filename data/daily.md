@@ -52,3 +52,4 @@
 - 2025-12-20: Tweak UI spacing and layout notes
 - 2025-12-21: Improve docs and developer notes
 - 2025-12-22: Minor styling adjustments and housekeeping
+- 2025-12-23: Refactor utility helpers (non-breaking)
