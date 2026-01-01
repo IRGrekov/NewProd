@@ -61,3 +61,4 @@
 - 2025-12-29: Add test placeholder and update metadata
 - 2025-12-30: Add test placeholder and update metadata
 - 2025-12-31: Add test placeholder and update metadata
+- 2026-01-01: Improve docs and developer notes
