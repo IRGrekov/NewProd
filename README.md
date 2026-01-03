@@ -65,3 +65,4 @@
 - 2025-12-31: maintenance & data refresh
 - 2026-01-01: maintenance & data refresh
 - 2026-01-02: maintenance & data refresh
+- 2026-01-03: maintenance & data refresh
