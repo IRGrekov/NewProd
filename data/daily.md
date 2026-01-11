@@ -67,3 +67,4 @@
 - 2026-01-08: Improve docs and developer notes
 - 2026-01-09: Improve docs and developer notes
 - 2026-01-10: Improve docs and developer notes
+- 2026-01-11: Tweak UI spacing and layout notes
