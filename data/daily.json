@@ -342,5 +342,9 @@
   "2026-01-29": {
     "note": "Improve docs and developer notes",
     "ts": "2026-01-29T07:37:20.769Z"
+  },
+  "2026-01-30": {
+    "note": "Refactor utility helpers (non-breaking)",
+    "ts": "2026-01-30T07:20:03.368Z"
   }
 }
