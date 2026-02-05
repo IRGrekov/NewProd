@@ -92,3 +92,4 @@
 - 2026-02-02: Add test placeholder and update metadata
 - 2026-02-03: Minor styling adjustments and housekeeping
 - 2026-02-04: Improve docs and developer notes
+- 2026-02-05: Refactor utility helpers (non-breaking)

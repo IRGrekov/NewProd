@@ -366,5 +366,9 @@
   "2026-02-04": {
     "note": "Improve docs and developer notes",
     "ts": "2026-02-04T08:00:12.034Z"
+  },
+  "2026-02-05": {
+    "note": "Refactor utility helpers (non-breaking)",
+    "ts": "2026-02-05T07:41:21.470Z"
   }
 }
