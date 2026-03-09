@@ -124,3 +124,4 @@
 - 2026-03-06: Tweak UI spacing and layout notes
 - 2026-03-07: Improve docs and developer notes
 - 2026-03-08: Improve docs and developer notes
+- 2026-03-09: Refactor utility helpers (non-breaking)
