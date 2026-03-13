@@ -128,3 +128,4 @@
 - 2026-03-10: Refactor utility helpers (non-breaking)
 - 2026-03-11: Minor styling adjustments and housekeeping
 - 2026-03-12: Minor styling adjustments and housekeeping
+- 2026-03-13: Tweak UI spacing and layout notes
