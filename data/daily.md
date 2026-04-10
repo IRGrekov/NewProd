@@ -156,3 +156,4 @@
 - 2026-04-07: Add test placeholder and update metadata
 - 2026-04-08: Tweak UI spacing and layout notes
 - 2026-04-09: Improve docs and developer notes
+- 2026-04-10: Refactor utility helpers (non-breaking)
