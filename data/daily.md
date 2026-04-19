@@ -165,3 +165,4 @@
 - 2026-04-16: Minor styling adjustments and housekeeping
 - 2026-04-17: Minor styling adjustments and housekeeping
 - 2026-04-18: Minor styling adjustments and housekeeping
+- 2026-04-19: Refactor utility helpers (non-breaking)
