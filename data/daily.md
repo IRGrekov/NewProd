@@ -184,3 +184,4 @@
 - 2026-05-05: Minor styling adjustments and housekeeping
 - 2026-05-06: Add test placeholder and update metadata
 - 2026-05-07: Minor styling adjustments and housekeeping
+- 2026-05-08: Refactor utility helpers (non-breaking)
