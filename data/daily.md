@@ -210,3 +210,4 @@
 - 2026-05-31: Tweak UI spacing and layout notes
 - 2026-06-01: Tweak UI spacing and layout notes
 - 2026-06-02: Improve docs and developer notes
+- 2026-06-03: Minor styling adjustments and housekeeping
