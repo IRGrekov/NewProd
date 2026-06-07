@@ -216,3 +216,4 @@
 - 2026-06-04: maintenance & data refresh
 - 2026-06-05: maintenance & data refresh
 - 2026-06-06: maintenance & data refresh
+- 2026-06-07: maintenance & data refresh
