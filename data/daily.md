@@ -222,3 +222,4 @@
 - 2026-06-12: Tweak UI spacing and layout notes
 - 2026-06-15: Minor styling adjustments and housekeeping
 - 2026-06-16: Tweak UI spacing and layout notes
+- 2026-06-17: Refactor utility helpers (non-breaking)
