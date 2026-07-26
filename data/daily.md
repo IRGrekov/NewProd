@@ -261,3 +261,4 @@
 - 2026-07-23: Improve docs and developer notes
 - 2026-07-24: Minor styling adjustments and housekeeping
 - 2026-07-25: Refactor utility helpers (non-breaking)
+- 2026-07-26: Refactor utility helpers (non-breaking)
