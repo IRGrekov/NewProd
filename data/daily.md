@@ -284,3 +284,4 @@
 - 2026-08-17: Improve docs and developer notes
 - 2026-08-18: Improve docs and developer notes
 - 2026-08-19: Add test placeholder and update metadata
+- 2026-08-20: Refactor utility helpers (non-breaking)
