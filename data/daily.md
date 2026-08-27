@@ -291,3 +291,4 @@
 - 2026-08-24: Tweak UI spacing and layout notes
 - 2026-08-25: Add test placeholder and update metadata
 - 2026-08-26: Minor styling adjustments and housekeeping
+- 2026-08-27: Refactor utility helpers (non-breaking)
