@@ -311,3 +311,4 @@
 - 2026-09-13: Add test placeholder and update metadata
 - 2026-09-14: Improve docs and developer notes
 - 2026-09-15: Add test placeholder and update metadata
+- 2026-09-16: Refactor utility helpers (non-breaking)
