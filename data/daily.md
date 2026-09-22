@@ -316,3 +316,4 @@
 - 2026-09-18: Improve docs and developer notes
 - 2026-09-19: Improve docs and developer notes
 - 2026-09-21: Refactor utility helpers (non-breaking)
+- 2026-09-22: Improve docs and developer notes
