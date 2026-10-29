@@ -349,3 +349,4 @@
 - 2026-10-26: Improve docs and developer notes
 - 2026-10-27: Improve docs and developer notes
 - 2026-10-28: Improve docs and developer notes
+- 2026-10-29: Tweak UI spacing and layout notes
