@@ -365,3 +365,4 @@
 - 2026-11-14: Minor styling adjustments and housekeeping
 - 2026-11-15: Improve docs and developer notes
 - 2026-11-16: Improve docs and developer notes
+- 2026-11-17: Tweak UI spacing and layout notes
