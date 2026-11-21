@@ -369,3 +369,4 @@
 - 2026-11-18: Refactor utility helpers (non-breaking)
 - 2026-11-19: Add test placeholder and update metadata
 - 2026-11-20: Minor styling adjustments and housekeeping
+- 2026-11-21: Tweak UI spacing and layout notes
